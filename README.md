@@ -45,6 +45,12 @@ You can use the included Postman collection to test the API endpoints easily.
 
 ---
 
+## Entity-Relationship (ER) Diagram
+
+Below is the ER diagram representing the database schema for the Order Management System:
+
+![ER Diagram](er-diagram.png)
+
 ## Setup and Running
 
 1. **Clone the repository**
