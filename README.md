@@ -31,7 +31,7 @@ This project implements a RESTful API for managing customers and their orders wi
 - Java 17
 - Spring Boot 3
 - Spring Data JPA with Hibernate
-- MySQL (or any relational DB)
+- MySQL
 - Lombok for boilerplate code reduction
 - Maven for build and dependency management
 
